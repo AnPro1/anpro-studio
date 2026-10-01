@@ -40,8 +40,16 @@ ul {
   padding: 0;
 }
 
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
 
-
+header ul {
+  display: flex;
+  gap: 2.5rem;
+}
 
 
 

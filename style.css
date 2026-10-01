@@ -60,4 +60,10 @@ main .container {
   flex-direction: column;
 }
 
+.hero {
+  display: flex;
+}
 
+.features {
+  display: flex;
+}

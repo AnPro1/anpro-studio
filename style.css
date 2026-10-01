@@ -7,9 +7,7 @@ body {
   min-height: 100vh;
   min-height: 100dvh;
   line-height: 1.5;
-  font-size: 1.125rem;
   color: #222;
-  background-color: #f8f9fa;
   display: flex;
   flex-direction: column;
   margin: 0;
@@ -20,4 +18,9 @@ body {
 footer {
   background-color: #E5E7EB;
 }
+
+.logo {
+  font-size: 1.5rem;
+}
+
 

@@ -67,3 +67,7 @@ main .container {
 .features {
   display: flex;
 }
+
+.cta-section {
+  display: flex;
+}

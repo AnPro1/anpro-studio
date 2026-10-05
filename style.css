@@ -63,16 +63,8 @@ header .container {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 1rem;
+  gap: 3rem;
 }
-
-
-
-.hero-content {
-  
-}
-
-hero-image
 
 main .container {
   flex: 1;

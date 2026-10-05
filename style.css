@@ -59,6 +59,20 @@ header .container {
   padding-block: 1.25rem;
 }
 
+.hero .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+
+
+.hero-content {
+  
+}
+
+hero-image
 
 main .container {
   flex: 1;

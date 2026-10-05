@@ -56,7 +56,9 @@ header .container {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding-block: 1.25rem;
 }
+
 
 main .container {
   flex: 1;
@@ -64,9 +66,7 @@ main .container {
   flex-direction: column;
 }
 
-.hero {
-  display: flex;
-}
+
 
 .features {
   display: flex;
